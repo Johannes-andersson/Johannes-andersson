@@ -1,16 +1,29 @@
-## Hi there 👋
+# AI Engineer | Autonomous Agents & RAG Systems
 
-<!--
-**Johannes-andersson/Johannes-andersson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught AI developer based in Greece, focused on building practical autonomous multi-agent systems and production-ready AI applications using LangChain, LangGraph, Ollama, and local LLMs.
 
-Here are some ideas to get you started:
+## My work emphasizes:
+- Multi-agent collaboration and orchestration
+- Retrieval-Augmented Generation (RAG) pipelines
+- Secure local AI deployments with prompt protection
+- Solutions aligned with EU AI Act requirements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current projects:
+- YouTube analysis agent suite (research, summarization, download, and reel ideation agents)
+- Secure Q&A systems for regulatory compliance
+
+## Technical stack:
+- Python
+- LangChain / LangGraph
+- Ollama (local models)
+- Chroma vector stores
+- yt-dlp and tool-calling agents
+
+## Open to:
+- AI engineering roles
+- Autonomous agent projects
+- Collaboration opportunities (remote or Greece-based)
+- Prompt Engineering
+- Automations
+
+**Location**: Greece
